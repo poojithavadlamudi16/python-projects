@@ -1,5 +1,3 @@
-# Advanced Weather App (No API Version)
-
 weather_data = {
     "hyderabad": "Sunny, 32°C",
     "mumbai": "Rainy, 28°C",
